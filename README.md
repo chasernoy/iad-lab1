@@ -33,4 +33,4 @@ pip install pandas numpy matplotlib seaborn jupyterlab
 python3 -m jupyter lab
 ```
 
-Открыть notebooks/01_data_understanding.ipynb и выполнить ячейки сверху вниз (или через Restart & Run All).
+Открыть notebooks/01_data_understanding.ipynb и выполнить ячейки сверху вниз (или через Restart Kernel and Run All Cells… ).
