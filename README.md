@@ -14,17 +14,23 @@
 
 ### 1) Клонирование репозитория
 
-`git clone https://github.com/chasernoy/iad-lab1.git \
-cd iad-lab1`
+```
+git clone https://github.com/chasernoy/iad-lab1.git   
+cd iad-lab1
+```
 
 ### 2) Окружение и зависимости
 
-`python3 -m venv .venv \
-source .venv/bin/activate \
-pip install -U pip \
-pip install pandas numpy matplotlib seaborn jupyterlab`
+```
+python3 -m venv .venv   
+source .venv/bin/activate   
+pip install -U pip   
+pip install pandas numpy matplotlib seaborn jupyterlab
+```
 
 ### 3) Запуск ноутбука
-`python3 -m jupyter lab`
+```
+python3 -m jupyter lab
+```
 
 Открыть notebooks/01_data_understanding.ipynb и выполнить ячейки сверху вниз (или через Restart & Run All).
