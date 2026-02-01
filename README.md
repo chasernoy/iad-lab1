@@ -19,10 +19,10 @@ cd iad-lab1`
 
 ### 2) Окружение и зависимости
 
-`python3 -m venv .venv
+``python3 -m venv .venv
 source .venv/bin/activate
 pip install -U pip
-pip install pandas numpy matplotlib seaborn jupyterlab`
+pip install pandas numpy matplotlib seaborn jupyterlab``
 
 ### 3) Запуск ноутбука
 `python3 -m jupyter lab`
